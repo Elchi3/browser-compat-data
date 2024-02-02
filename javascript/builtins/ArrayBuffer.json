@@ -104,6 +104,9 @@
             "__compat": {
               "description": "<code>maxByteLength</code> option",
               "spec_url": "https://tc39.es/ecma262/multipage/structured-data.html#sec-arraybuffer-constructor",
+              "tags": [
+                "web-features:ecmascript-2024"
+              ],
               "support": {
                 "chrome": {
                   "version_added": "111"
@@ -238,6 +241,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer/detached",
             "spec_url": "https://tc39.es/proposal-arraybuffer-transfer/#sec-get-arraybuffer.prototype.detached",
+            "tags": [
+              "web-features:arraybuffer-transfer"
+            ],
             "support": {
               "chrome": {
                 "version_added": "114"
@@ -320,6 +326,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer/maxByteLength",
             "spec_url": "https://tc39.es/ecma262/multipage/structured-data.html#sec-get-arraybuffer.prototype.maxbytelength",
+            "tags": [
+              "web-features:ecmascript-2024"
+            ],
             "support": {
               "chrome": {
                 "version_added": "111"
@@ -360,6 +369,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer/resizable",
             "spec_url": "https://tc39.es/ecma262/multipage/structured-data.html#sec-get-arraybuffer.prototype.resizable",
+            "tags": [
+              "web-features:ecmascript-2024"
+            ],
             "support": {
               "chrome": {
                 "version_added": "111"
@@ -400,6 +412,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer/resize",
             "spec_url": "https://tc39.es/ecma262/multipage/structured-data.html#sec-arraybuffer.prototype.resize",
+            "tags": [
+              "web-features:ecmascript-2024"
+            ],
             "support": {
               "chrome": {
                 "version_added": "111"
@@ -489,6 +504,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer/transfer",
             "spec_url": "https://tc39.es/proposal-arraybuffer-transfer/#sec-arraybuffer.prototype.transfer",
+            "tags": [
+              "web-features:arraybuffer-transfer"
+            ],
             "support": {
               "chrome": {
                 "version_added": "114"
@@ -529,6 +547,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer/transferToFixedLength",
             "spec_url": "https://tc39.es/proposal-arraybuffer-transfer/#sec-arraybuffer.prototype.transfertofixedlength",
+            "tags": [
+              "web-features:arraybuffer-transfer"
+            ],
             "support": {
               "chrome": {
                 "version_added": "114"

@@ -142,6 +142,9 @@
           "optional_monthIndex": {
             "__compat": {
               "description": "<code>monthIndex</code> defaults to 0",
+              "tags": [
+                "web-features:ecmascript-2017"
+              ],
               "support": {
                 "chrome": {
                   "version_added": "57"

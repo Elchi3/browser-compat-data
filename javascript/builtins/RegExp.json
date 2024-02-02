@@ -143,6 +143,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/RegExp/dotAll",
             "spec_url": "https://tc39.es/ecma262/multipage/text-processing.html#sec-get-regexp.prototype.dotAll",
+            "tags": [
+              "web-features:ecmascript-2018"
+            ],
             "support": {
               "chrome": {
                 "version_added": "62"
@@ -360,6 +363,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/RegExp/hasIndices",
             "spec_url": "https://tc39.es/ecma262/multipage/text-processing.html#sec-get-regexp.prototype.hasIndices",
+            "tags": [
+              "web-features:ecmascript-2022"
+            ],
             "support": {
               "chrome": {
                 "version_added": "90"

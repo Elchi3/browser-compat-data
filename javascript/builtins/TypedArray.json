@@ -104,6 +104,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/at",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%typedarray%.prototype.at",
+            "tags": [
+              "web-features:ecmascript-2022"
+            ],
             "support": {
               "chrome": {
                 "version_added": "92"
@@ -1782,6 +1785,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/toReversed",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%typedarray%.prototype.toreversed",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "110"
@@ -1822,6 +1828,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/toSorted",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%typedarray%.prototype.tosorted",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "110"
@@ -1952,6 +1961,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/with",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-%typedarray%.prototype.with",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "110"

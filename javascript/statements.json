@@ -648,6 +648,9 @@
           "description": "<code>for await...of</code>",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/for-await...of",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html#sec-for-in-and-for-of-statements",
+          "tags": [
+            "web-features:ecmascript-2018"
+          ],
           "support": {
             "chrome": {
               "version_added": "63"
@@ -777,6 +780,9 @@
         "async_iterators": {
           "__compat": {
             "description": "async iterators",
+            "tags": [
+              "web-features:ecmascript-2018"
+            ],
             "support": {
               "chrome": {
                 "version_added": "63"
@@ -990,6 +996,9 @@
         "IteratorResult_object": {
           "__compat": {
             "description": "<code>IteratorResult</code> object instead of throwing",
+            "tags": [
+              "web-features:ecmascript-2016"
+            ],
             "support": {
               "chrome": {
                 "version_added": "49"
@@ -1031,6 +1040,9 @@
         "not_constructable_with_new": {
           "__compat": {
             "description": "Not constructable with <code>new</code> (ES2016)",
+            "tags": [
+              "web-features:ecmascript-2016"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"

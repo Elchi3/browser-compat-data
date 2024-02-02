@@ -296,6 +296,9 @@
         "symbol_as_keys": {
           "__compat": {
             "description": "Non-registered symbols as keys",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "108"
