@@ -53,6 +53,9 @@
           "description": "Binary numeric literals (<code>0b</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Binary",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-lexical-grammar.html#prod-BinaryIntegerLiteral",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "41"
@@ -415,6 +418,9 @@
           "description": "Octal numeric literals (<code>0o</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Octal",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-lexical-grammar.html#prod-OctalIntegerLiteral",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "41"
@@ -599,6 +605,9 @@
           "description": "Unicode point escapes (<code>\\u{}</code>)",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Lexical_grammar#Unicode_code_point_escapes",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-lexical-grammar.html#prod-UnicodeEscapeSequence",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "44"
@@ -640,6 +649,9 @@
       "shorthand_object_literals": {
         "__compat": {
           "description": "Shorthand notation for object literals",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "43"
@@ -683,6 +695,9 @@
           "description": "Template literals",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Template_literals",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-expressions.html#sec-template-literals",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "41"

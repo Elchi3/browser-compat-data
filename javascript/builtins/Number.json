@@ -50,6 +50,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-number.epsilon",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "34"
@@ -92,6 +95,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number/MAX_SAFE_INTEGER",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-number.max_safe_integer",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "34"
@@ -180,6 +186,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_SAFE_INTEGER",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-number.min_safe_integer",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "34"
@@ -453,6 +462,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-number.isfinite",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "19"
@@ -495,6 +507,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-number.isinteger",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "34"
@@ -537,6 +552,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number/isNaN",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-number.isnan",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "25"
@@ -579,6 +597,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number/isSafeInteger",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-number.issafeinteger",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "34"
@@ -621,6 +642,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number/parseFloat",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-number.parsefloat",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "34"
@@ -663,6 +687,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number/parseInt",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-number.parseint",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "34"

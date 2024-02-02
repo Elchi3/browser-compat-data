@@ -510,6 +510,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/acosh",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.acosh",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -598,6 +601,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/asinh",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.asinh",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -732,6 +738,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/atanh",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.atanh",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -774,6 +783,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/cbrt",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.cbrt",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -862,6 +874,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/clz32",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.clz32",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -950,6 +965,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/cosh",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.cosh",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1038,6 +1056,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/expm1",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.expm1",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1126,6 +1147,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/fround",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.fround",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1168,6 +1192,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/hypot",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.hypot",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1210,6 +1237,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/imul",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.imul",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "28"
@@ -1300,6 +1330,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/log10",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.log10",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1342,6 +1375,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/log1p",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.log1p",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1384,6 +1420,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/log2",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.log2",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1656,6 +1695,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/sign",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.sign",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1744,6 +1786,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/sinh",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.sinh",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1878,6 +1923,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/tanh",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.tanh",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -1920,6 +1968,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc",
             "spec_url": "https://tc39.es/ecma262/multipage/numbers-and-dates.html#sec-math.trunc",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
