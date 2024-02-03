@@ -191,7 +191,7 @@
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/class",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-class-definitions",
           "tags": [
-            "web-features:class-syntax"
+            "web-features:ecmascript-2015"
           ],
           "support": {
             "chrome": [
@@ -242,6 +242,9 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/const",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html#sec-let-and-const-declarations",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "21"
@@ -666,6 +669,9 @@
           "description": "<code>for await...of</code>",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/for-await...of",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html#sec-for-in-and-for-of-statements",
+          "tags": [
+            "web-features:ecmascript-2018"
+          ],
           "support": {
             "chrome": {
               "version_added": "63"
@@ -757,6 +763,9 @@
           "description": "<code>for...of</code>",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/for...of",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html#sec-for-in-and-for-of-statements",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "38"
@@ -798,6 +807,9 @@
         "async_iterators": {
           "__compat": {
             "description": "async iterators",
+            "tags": [
+              "web-features:ecmascript-2018"
+            ],
             "support": {
               "chrome": {
                 "version_added": "63"
@@ -974,6 +986,9 @@
           "description": "<code>function*</code> statement",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/function*",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-generator-function-definitions",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "39"
@@ -1055,6 +1070,9 @@
         "not_constructable_with_new": {
           "__compat": {
             "description": "Not constructable with <code>new</code> (ES2016)",
+            "tags": [
+              "web-features:ecmascript-2016"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -1578,6 +1596,9 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/let",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-statements-and-declarations.html#sec-let-and-const-declarations",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": [
               {

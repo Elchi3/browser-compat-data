@@ -5,6 +5,9 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
           "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol-objects",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "38"
@@ -48,6 +51,9 @@
             "description": "<code>Symbol()</code> constructor",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/Symbol",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol-constructor",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -177,6 +183,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/for",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.for",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "40"
@@ -219,6 +228,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/hasInstance",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.hasinstance",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -261,6 +273,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/isConcatSpreadable",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.isconcatspreadable",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "48"
@@ -303,6 +318,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.iterator",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "43"
@@ -345,6 +363,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/keyFor",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.keyfor",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "40"
@@ -387,6 +408,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/match",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.match",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -467,6 +491,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/replace",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.replace",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -507,6 +534,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/search",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.search",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -547,6 +577,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/species",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.species",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "51"
@@ -589,6 +622,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/split",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.split",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -629,6 +665,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.toprimitive",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "47"
@@ -671,6 +710,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toString",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.prototype.tostring",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -713,6 +755,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toStringTag",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.tostringtag",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "49"
@@ -754,6 +799,9 @@
             "__compat": {
               "description": "<code>toStringTag</code> available on all DOM prototype objects",
               "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toStringTag#toStringTag_available_on_all_DOM_prototype_objects",
+              "tags": [
+                "web-features:ecmascript-2015"
+              ],
               "support": {
                 "chrome": {
                   "version_added": "50"
@@ -795,6 +843,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/unscopables",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.unscopables",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -837,6 +888,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/valueOf",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.prototype.valueof",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "38"
@@ -879,6 +933,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Symbol/@@toPrimitive",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-symbol.prototype-@@toprimitive",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "47"

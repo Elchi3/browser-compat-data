@@ -103,6 +103,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/RegExp/compile",
             "spec_url": "https://tc39.es/ecma262/multipage/additional-ecmascript-features-for-web-browsers.html#sec-regexp.prototype.compile",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "1"
@@ -238,6 +241,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/RegExp/flags",
             "spec_url": "https://tc39.es/ecma262/multipage/text-processing.html#sec-get-regexp.prototype.flags",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "49"
@@ -1450,6 +1456,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/RegExp/@@match",
             "spec_url": "https://tc39.es/ecma262/multipage/text-processing.html#sec-regexp.prototype-@@match",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -1534,6 +1543,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/RegExp/@@replace",
             "spec_url": "https://tc39.es/ecma262/multipage/text-processing.html#sec-regexp.prototype-@@replace",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -1574,6 +1586,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/RegExp/@@search",
             "spec_url": "https://tc39.es/ecma262/multipage/text-processing.html#sec-regexp.prototype-@@search",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -1616,6 +1631,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/RegExp/@@species",
             "spec_url": "https://tc39.es/ecma262/multipage/text-processing.html#sec-get-regexp-@@species",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"
@@ -1658,6 +1676,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/RegExp/@@split",
             "spec_url": "https://tc39.es/ecma262/multipage/text-processing.html#sec-regexp.prototype-@@split",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "50"

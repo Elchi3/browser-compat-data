@@ -5,6 +5,9 @@
         "__compat": {
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise",
           "spec_url": "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-promise-objects",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "32"
@@ -47,6 +50,9 @@
             "description": "<code>Promise()</code> constructor",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise/Promise",
             "spec_url": "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-promise-constructor",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "32"
@@ -93,6 +99,9 @@
             "description": "<code>all()</code>",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise/all",
             "spec_url": "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-promise.all",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "32"
@@ -217,6 +226,9 @@
             "description": "<code>catch()</code>",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch",
             "spec_url": "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-promise.prototype.catch",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "32"
@@ -344,6 +356,9 @@
             "description": "<code>race()</code>",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise/race",
             "spec_url": "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-promise.race",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "32"
@@ -387,6 +402,9 @@
             "description": "<code>reject()</code>",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise/reject",
             "spec_url": "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-promise.reject",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "32"
@@ -430,6 +448,9 @@
             "description": "<code>resolve()</code>",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve",
             "spec_url": "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-promise.resolve",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "32"
@@ -473,6 +494,9 @@
             "description": "<code>then()</code>",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise/then",
             "spec_url": "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-promise.prototype.then",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "32"
@@ -555,6 +579,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise/@@species",
             "spec_url": "https://tc39.es/ecma262/multipage/control-abstraction-objects.html#sec-get-promise-@@species",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "51"

@@ -201,6 +201,9 @@
               "https://tc39.es/ecma262/multipage/ordinary-and-exotic-objects-behaviours.html#sec-createunmappedargumentsobject",
               "https://tc39.es/ecma262/multipage/ordinary-and-exotic-objects-behaviours.html#sec-createmappedargumentsobject"
             ],
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "52"
@@ -245,6 +248,9 @@
           "description": "Arrow functions",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Functions/Arrow_functions",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-arrow-function-definitions",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "45"
@@ -331,6 +337,9 @@
       "block_level_functions": {
         "__compat": {
           "description": "Block-level functions",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "49"
@@ -374,6 +383,9 @@
           "description": "Default parameters",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Functions/Default_parameters",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-function-definitions",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "49"
@@ -414,6 +426,9 @@
         "destructured_parameter_with_default_value_assignment": {
           "__compat": {
             "description": "Destructured parameter with default value assignment",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "49"
@@ -455,6 +470,9 @@
         "parameters_without_defaults_after_default_parameters": {
           "__compat": {
             "description": "Parameters without defaults after default parameters",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "49"
@@ -545,6 +563,9 @@
         "computed_property_names": {
           "__compat": {
             "description": "Computed property names",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "46"
@@ -591,6 +612,9 @@
           "description": "Method definitions",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Functions/Method_definitions",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-method-definitions",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "39"
@@ -755,6 +779,9 @@
           "description": "Rest parameters",
           "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Functions/rest_parameters",
           "spec_url": "https://tc39.es/ecma262/multipage/ecmascript-language-functions-and-classes.html#sec-function-definitions",
+          "tags": [
+            "web-features:ecmascript-2015"
+          ],
           "support": {
             "chrome": {
               "version_added": "47"
@@ -795,6 +822,9 @@
         "destructuring": {
           "__compat": {
             "description": "Destructuring rest parameters",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "49"
@@ -883,6 +913,9 @@
         "computed_property_names": {
           "__compat": {
             "description": "Computed property names",
+            "tags": [
+              "web-features:ecmascript-2015"
+            ],
             "support": {
               "chrome": {
                 "version_added": "46"
