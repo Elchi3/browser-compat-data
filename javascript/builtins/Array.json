@@ -150,6 +150,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/concat",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.concat",
+            "tags": [
+              "web-features:ecmascript-3"
+            ],
             "support": {
               "chrome": {
                 "version_added": "1"
@@ -1234,6 +1237,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/pop",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.pop",
+            "tags": [
+              "web-features:ecmascript-3"
+            ],
             "support": {
               "chrome": {
                 "version_added": "1"
@@ -1280,6 +1286,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/push",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.push",
+            "tags": [
+              "web-features:ecmascript-3"
+            ],
             "support": {
               "chrome": {
                 "version_added": "1"
@@ -1467,6 +1476,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/shift",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.shift",
+            "tags": [
+              "web-features:ecmascript-3"
+            ],
             "support": {
               "chrome": {
                 "version_added": "1"
@@ -1513,6 +1525,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/slice",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.slice",
+            "tags": [
+              "web-features:ecmascript-3"
+            ],
             "support": {
               "chrome": {
                 "version_added": "1"
@@ -1746,6 +1761,9 @@
             "spec_url": [
               "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.tolocalestring",
               "https://tc39.es/ecma402/#sup-array.prototype.tolocalestring"
+            ],
+            "tags": [
+              "web-features:ecmascript-3"
             ],
             "support": {
               "chrome": {
@@ -2067,6 +2085,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.unshift",
+            "tags": [
+              "web-features:ecmascript-3"
+            ],
             "support": {
               "chrome": {
                 "version_added": "1"
