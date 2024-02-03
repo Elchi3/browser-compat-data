@@ -108,7 +108,7 @@
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/at",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.at",
             "tags": [
-              "web-features:array-at"
+              "web-features:ecmascript-2022"
             ],
             "support": {
               "chrome": {
@@ -534,6 +534,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/findLast",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.findlast",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "97"
@@ -574,6 +577,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/findLastIndex",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.findlastindex",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "97"
@@ -615,7 +621,7 @@
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/flat",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.flat",
             "tags": [
-              "web-features:array-flat"
+              "web-features:ecmascript-2019"
             ],
             "support": {
               "chrome": {
@@ -658,7 +664,7 @@
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.flatmap",
             "tags": [
-              "web-features:array-flat"
+              "web-features:ecmascript-2019"
             ],
             "support": {
               "chrome": {
@@ -838,6 +844,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/includes",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.includes",
+            "tags": [
+              "web-features:ecmascript-2016"
+            ],
             "support": {
               "chrome": {
                 "version_added": "47"
@@ -1725,6 +1734,9 @@
           "stable_sorting": {
             "__compat": {
               "description": "Stable sorting",
+              "tags": [
+                "web-features:ecmascript-2019"
+              ],
               "support": {
                 "chrome": {
                   "version_added": "70"
@@ -1971,6 +1983,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/toReversed",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.toreversed",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "110"
@@ -2011,6 +2026,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/toSorted",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.tosorted",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "110"
@@ -2051,6 +2069,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/toSpliced",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.tospliced",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "110"
@@ -2242,6 +2263,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/with",
             "spec_url": "https://tc39.es/ecma262/multipage/indexed-collections.html#sec-array.prototype.with",
+            "tags": [
+              "web-features:ecmascript-2023"
+            ],
             "support": {
               "chrome": {
                 "version_added": "110"

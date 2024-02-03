@@ -295,6 +295,9 @@
         "trailing_comma": {
           "__compat": {
             "description": "Trailing comma in parameters",
+            "tags": [
+              "web-features:ecmascript-2017"
+            ],
             "support": {
               "chrome": {
                 "version_added": "58"

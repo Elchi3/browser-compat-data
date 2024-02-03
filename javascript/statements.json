@@ -1029,6 +1029,9 @@
         "IteratorResult_object": {
           "__compat": {
             "description": "<code>IteratorResult</code> object instead of throwing",
+            "tags": [
+              "web-features:ecmascript-2016"
+            ],
             "support": {
               "chrome": {
                 "version_added": "49"

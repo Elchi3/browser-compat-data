@@ -57,6 +57,9 @@
           "__compat": {
             "description": "JavaScript is a superset of JSON",
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/JSON#JavaScript_and_JSON_differences",
+            "tags": [
+              "web-features:ecmascript-2019"
+            ],
             "support": {
               "chrome": {
                 "version_added": "66"
@@ -201,6 +204,9 @@
           "well_formed_stringify": {
             "__compat": {
               "description": "Strings are escaped to well-formed UTF-8",
+              "tags": [
+                "web-features:ecmascript-2019"
+              ],
               "support": {
                 "chrome": {
                   "version_added": "72"

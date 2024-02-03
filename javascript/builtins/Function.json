@@ -723,6 +723,9 @@
           "toString_revision": {
             "__compat": {
               "description": "Implements <code>Function.prototype.toString</code> revision",
+              "tags": [
+                "web-features:ecmascript-2019"
+              ],
               "support": {
                 "chrome": {
                   "version_added": "66"
