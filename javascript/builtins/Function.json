@@ -152,6 +152,9 @@
           "generic_arrays_as_arguments": {
             "__compat": {
               "description": "ES 5.1: generic array-like object as <code>arguments</code>",
+              "tags": [
+                "web-features:ecmascript-5"
+              ],
               "support": {
                 "chrome": {
                   "version_added": "17"
@@ -246,6 +249,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Function/bind",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-function.prototype.bind",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "7"

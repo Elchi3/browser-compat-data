@@ -191,6 +191,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/create",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.create",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "5"
@@ -291,6 +294,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperties",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.defineproperties",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "5"
@@ -339,6 +345,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.defineproperty",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "5"
@@ -490,6 +499,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.freeze",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "6"
@@ -576,6 +588,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptor",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.getownpropertydescriptor",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "5"
@@ -673,6 +688,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.getownpropertynames",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "5"
@@ -763,6 +781,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/getPrototypeOf",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.getprototypeof",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "5"
@@ -994,6 +1015,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/isExtensible",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.isextensible",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "6"
@@ -1040,6 +1064,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/isFrozen",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.isfrozen",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "6"
@@ -1137,6 +1164,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/isSealed",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.issealed",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "6"
@@ -1183,6 +1213,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/keys",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.keys",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "5"
@@ -1329,6 +1362,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.preventextensions",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "6"
@@ -1516,6 +1552,9 @@
           "__compat": {
             "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object/seal",
             "spec_url": "https://tc39.es/ecma262/multipage/fundamental-objects.html#sec-object.seal",
+            "tags": [
+              "web-features:ecmascript-5"
+            ],
             "support": {
               "chrome": {
                 "version_added": "6"
